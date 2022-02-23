@@ -1,0 +1,3 @@
+= antora-playbook-mt-local
+
+ Playbook for generating the Metathesis site locally for development purposes.
