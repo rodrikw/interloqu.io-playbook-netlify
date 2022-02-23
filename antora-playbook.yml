@@ -18,7 +18,7 @@ ui:
     # url: https://github.com/rodrikw/interloqu.io-ui-build/blob/main/ui-bundle.zip?raw=true
     # url: https://github.com/rodrikw/metathesis-ui/releases/download/v1.0/ui-bundle.zip
     # url: https://github.com/rodrikw/interloquio-ui/archive/refs/heads/main.zip    
-    url: https://github.com/rodrikw/interloquio-ui-build/blob/main/ui-bundle.zip
+    url: https://github.com/rodrikw/interloquio-ui-build/blob/main/ui-bundle.zip?raw=true
     snapshot: true
 asciidoc:
   attributes:
