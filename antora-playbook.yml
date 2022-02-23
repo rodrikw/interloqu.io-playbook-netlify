@@ -4,7 +4,7 @@ site:
   start_page: _@home:ROOT:index.adoc
 content:
   sources:
-  - url: https://github.com/rodrikw/interloqu.io-home
+  - url: https://github.com/rodrikw/interloquio-doc-site-home
     branches: main
     start_path: docs
 #  - url: ../recommendations
