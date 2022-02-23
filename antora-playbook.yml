@@ -12,11 +12,12 @@ content:
 #    start_path: docs
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     # url: https://github.com/riptano/antora-ui-pulsar/raw/main/releases/download/v0.1/ui-bundle.zip
     # url: https://s3-eu-west-1.amazonaws.com/static-content.neo4j.com/build/ui-bundle-v0.4.0.zip
     # url: https://github.com/rodrikw/interloqu.io-ui-build/blob/main/ui-bundle.zip?raw=true
     # url: https://github.com/rodrikw/metathesis-ui/releases/download/v1.0/ui-bundle.zip
+    url: https://github.com/rodrikw/interloquio-ui/archive/refs/heads/main.zip
     snapshot: true
 asciidoc:
   attributes:
