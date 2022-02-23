@@ -1,10 +1,7 @@
 site:
-  title: Interloqu.io Docs Demo Site
+  title: Interloquio Docs Demo Site
   url: https://docs.demo.com
   start_page: _@home:ROOT:index.adoc
-# output:
-  # clean: true
-  # dir: ../interloqu.io-site
 content:
   sources:
   - url: https://github.com/rodrikw/interloqu.io-home
