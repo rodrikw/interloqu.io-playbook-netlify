@@ -1,6 +1,6 @@
 site:
   title: Interloquio Docs Demo Site
-  url: https://docs.demo.com
+  url: https://interloquio-doc-site.netlify.app
   start_page: _@home:ROOT:index.adoc
 content:
   sources:
